@@ -20,6 +20,14 @@ def show
 end
 ```
 
+## Python
+```python
+def test():
+    print("Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line")
+    for i in range(10):
+        print(i*i-i)
+```
+
 ## Php
 ```php
 <?php

@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,33 +26,36 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - CPOA-GPTL
+      - loto
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: Benbb96
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: Benbb96
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: benjamin-bernard-bouissières-9b1810a7
   # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
+  medium: benbb96
+  stackoverflow: 8439435
   # telegram: your_username
-  # twitter: your_username
+  twitter: Benbb96
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: https://www.benbb96.com/
+  youtube: Benbb96
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Python
+    web_url: https://www.python.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Django
+    web_url: https://www.djangoproject.com/
+    image_url: https://xebialabs.com/wp-content/uploads/2018/10/django-logo.jpg
+    
+  - name: Processing/P5.js
+    web_url: https://processing.org/
+    image_url: https://processing.org/img/processing3-logo.png

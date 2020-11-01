@@ -54,7 +54,7 @@ topics:
 
   - name: Django
     web_url: https://www.djangoproject.com/
-    image_url: https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png
+    image_url: https://kevin-brown.com/images/django-logo.svg
     
   - name: Processing/P5.js
     web_url: https://processing.org/
